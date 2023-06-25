@@ -1,0 +1,16 @@
+.unit {
+  fill: none;
+  stroke-width: 10;
+}
+
+.unit:nth-child(1) {
+  stroke: #86cfa3;
+}
+
+.unit:nth-child(2) {
+  stroke: #a2c6e0;
+}
+
+.unit:nth-child(3) {
+  stroke: #ffc7ec;
+}
